@@ -1,0 +1,5 @@
+include demo-glut.py
+include trackball.py
+include COPYING
+include README
+include MANIFEST.in
